@@ -1,5 +1,5 @@
 #Author: Rosa Quelal rquelal@espol.edu.ec
-@Test
+
 Feature: Get insurance premium value
 
   Scenario: Single Men
